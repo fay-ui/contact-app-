@@ -1,0 +1,15 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "faith",
+      "phone": "1234567890",
+      "email": "john@example.com",
+      "birthday": "1990-01-01",
+      "profilePic": null,
+      "notes": "Friend from home",
+      "favorite": false,
+      "socialMedia": ""
+    }
+  ]
+}

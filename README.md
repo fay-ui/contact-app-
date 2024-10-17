@@ -17,7 +17,7 @@ Setup/Installation Instructions
 
 Live Server
 
-You can view the web live at [Contact Management App](your-live-server-link).
+You can view the web live at [Contact Management App](https://github.com/fay-ui/contact-app-).
 
  Known Bugs
 
@@ -35,8 +35,3 @@ Technologies Used
 
 Email: [faith.njau@student.moringaschool.com]
 
-## License
-
-Licensed under the MIT License.
-
-Copyright (c) 2024 faith njau
